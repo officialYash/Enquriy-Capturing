@@ -1,5 +1,5 @@
 import express from 'express'
-import appConfig from './config/config.js'
+import appConfig from './config/appConfig.js'
 import router from './router/router.js'
 
 const {PORT}=appConfig
